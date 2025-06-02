@@ -1,4 +1,4 @@
-Here is an example of the GitHub readme file for one of the projects in the portfolio website:
+Here is template for projects in this portfolio website:
 
 # Security Assessment and Audit
 
