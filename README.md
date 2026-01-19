@@ -1,8 +1,8 @@
 # 👋 Howdy, I'm clovertortoise!
 
-![clovertortoise's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=clovertortoise&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko)
+![clovertortoise's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=clovertortoise&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent)
 
-![clovertortoise's top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clovertortoise&hide_border=true&layout=compact&theme=merko)
+![clovertortoise's top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clovertortoise&hide_border=true&layout=compact&theme=transparent)
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=clovertortoise&theme=merko&hide_border=true)](https://git.io/streak-stats)
