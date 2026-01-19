@@ -1,8 +1,17 @@
 # 👋 Howdy, I'm clovertortoise!
 
-`🔐 Cybersecurity Enthusiast | 💻 Software Developer`
+![clovertortoise's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=clovertortoise&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko)
 
-## 🛡️ Cybersecurity Projects:
+![clovertortoise's top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clovertortoise&hide_border=true&layout=compact&theme=merko)
+
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=clovertortoise&theme=merko&hide_border=true)](https://git.io/streak-stats)
+-->
+
+<details>
+<summary>See Projects</summary>
+
+## 🛡️ Cybersecurity:
 
 ### Penetration Testing
 
@@ -16,7 +25,7 @@
 - [Malware Report](files/MalwareReport.md) - In-depth analysis of recent malware.
 - [Network Encryption](files/NetworkEncryption.md) - Exploring methods of network encryption.
 
-## 👨‍💻 Software Development Projects:
+## 👨‍💻 Software Development:
 
 ### C# (.NET Applications)
 
@@ -27,9 +36,7 @@
 
 - [Database Project](https://github.com/clovertortoise/Database-Project) - A project showcasing database design and management with Microsoft Access.
 
-<details>
- <summary>View More</summary>
-
+<!--
 ## 📊 Stats
 
 ![clovertortoise's GitHub stats](https://github-readme-stats.vercel.app/api?username=clovertortoise&show_icons=true&theme=transparent)
@@ -45,6 +52,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+-->
 
 <!-- Add more icons for HTML, CSS, JavaScript, etc. -->
 <br />
